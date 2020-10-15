@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/pidmodel.cpp
+pidmodel.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/pidmodel.h
+pidmodel_private.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/pidmodel_private.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/pidmodel.h
+rtwtypes.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/rtwtypes.h
+pidmodel_types.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/pidmodel_types.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/pidmodel_private.h
+rtwtypes.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/rtwtypes.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/pidmodel_types.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/rtwtypes.h
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="simulinkpid"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simulinkpid">
+				<Option output="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/simulinkpid.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/."/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++"/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 simulinkpid"/>
+					<CompileFile command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simulinkpid/fast">
+				<Option output="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/simulinkpid.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/."/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++"/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 simulinkpid/fast"/>
+					<CompileFile command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-w64/x86_64-4.9.2-win32-seh-rt_v3-rev1/mingw64/bin/mingw32-make.exe -f &quot;F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/main.cpp">
+			<Option target="simulinkpid"/>
+		</Unit>
+		<Unit filename="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/pidmodel.cpp">
+			<Option target="simulinkpid"/>
+		</Unit>
+		<Unit filename="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/pidmodel.h">
+			<Option target="simulinkpid"/>
+		</Unit>
+		<Unit filename="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/pidmodel_private.h">
+			<Option target="simulinkpid"/>
+		</Unit>
+		<Unit filename="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/pidmodel_types.h">
+			<Option target="simulinkpid"/>
+		</Unit>
+		<Unit filename="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/rtwtypes.h">
+			<Option target="simulinkpid"/>
+		</Unit>
+		<Unit filename="F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

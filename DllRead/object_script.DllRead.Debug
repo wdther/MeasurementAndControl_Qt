@@ -1,0 +1,13 @@
+debug/main.o
+debug/dllread.o
+debug/QtRoundProgressBar.o
+debug/wave.o
+debug/chartconfig.o
+debug/qwdialogpen.o
+debug/QtGaugeProgress.o
+debug/qrc_res.o
+debug/moc_dllread.o
+debug/moc_QtRoundProgressBar.o
+debug/moc_chartconfig.o
+debug/moc_qwdialogpen.o
+debug/moc_QtGaugeProgress.o

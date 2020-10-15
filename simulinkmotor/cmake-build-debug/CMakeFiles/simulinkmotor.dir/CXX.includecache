@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/main.cpp
+stddef.h
+-
+stdio.h
+-
+motor.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/motor.h
+rtwtypes.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/rtwtypes.h
+iostream
+-
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/motor.h
+cstring
+-
+rtwtypes.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/rtwtypes.h
+rtw_continuous.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/rtw_continuous.h
+rtw_solver.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/rtw_solver.h
+motor_types.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/motor_types.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/motor_types.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/rtw_continuous.h
+tmwtypes.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/tmwtypes.h
+rtwtypes.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/rtwtypes.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/rtw_solver.h
+rtw_continuous.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/rtw_continuous.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkmotor/rtwtypes.h
+

@@ -1,0 +1,12 @@
+debug/main.o
+debug/serialwidget.o
+debug/pid.o
+debug/motor.o
+debug/pidmodel.o
+debug/chartconfig.o
+debug/qwdialogpen.o
+debug/qrc_res.o
+debug/qrc_serial_qc.o
+debug/moc_serialwidget.o
+debug/moc_chartconfig.o
+debug/moc_qwdialogpen.o

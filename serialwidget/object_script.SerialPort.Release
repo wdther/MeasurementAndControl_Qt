@@ -1,0 +1,12 @@
+release/main.o
+release/serialwidget.o
+release/pid.o
+release/motor.o
+release/pidmodel.o
+release/chartconfig.o
+release/qwdialogpen.o
+release/qrc_res.o
+release/qrc_serial_qc.o
+release/moc_serialwidget.o
+release/moc_chartconfig.o
+release/moc_qwdialogpen.o

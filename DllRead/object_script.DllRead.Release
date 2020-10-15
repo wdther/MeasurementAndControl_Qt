@@ -1,0 +1,13 @@
+release/main.o
+release/dllread.o
+release/QtRoundProgressBar.o
+release/wave.o
+release/chartconfig.o
+release/qwdialogpen.o
+release/QtGaugeProgress.o
+release/qrc_res.o
+release/moc_dllread.o
+release/moc_QtRoundProgressBar.o
+release/moc_chartconfig.o
+release/moc_qwdialogpen.o
+release/moc_QtGaugeProgress.o

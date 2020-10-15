@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/new/icon">
+    <file>pin.png</file>
+    <file>set.png</file>
+    <file>usb.png</file>
+  </qresource>
+</RCC>

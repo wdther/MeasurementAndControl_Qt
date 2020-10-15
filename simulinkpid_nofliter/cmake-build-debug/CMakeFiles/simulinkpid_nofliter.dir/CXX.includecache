@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/main.cpp
+stddef.h
+-
+stdio.h
+-
+pidmodel.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/pidmodel.h
+rtwtypes.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/rtwtypes.h
+iostream
+-
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/pidmodel.cpp
+pidmodel.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/pidmodel.h
+pidmodel_private.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/pidmodel_private.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/pidmodel.h
+rtwtypes.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/rtwtypes.h
+pidmodel_types.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/pidmodel_types.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/pidmodel_private.h
+rtwtypes.h
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/rtwtypes.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/pidmodel_types.h
+
+F:/WorkStation/QT_In_Github/qribbonStudy/simulinkpid_nofliter/rtwtypes.h
+
